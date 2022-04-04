@@ -1,5 +1,5 @@
 layout: page
 title: "PAGE TITLE"
-permalink: /test/page/
+permalink: /dnd/test
 
 <h1>Test page successful!</h1>
